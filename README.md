@@ -1,5 +1,10 @@
 # GoPro HTTP API specification in OpenAPI Format
 
+
+
+[![OpenAPI Validation](https://validator.swagger.io/validator?url=https://raw.githubusercontent.com/axeljaeger/gopro-openapi/master/gopro-openapi.yaml)](https://validator.swagger.io/?url=https://raw.githubusercontent.com/axeljaeger/gopro-openapi/master/gopro-openapi.yaml)
+
+
 This is a community translation of the [official GoPro HTTP API](https://gopro.github.io/OpenGoPro/http_2_0) provided by GoPro Inc.
 
 You can browse this API using the provided [Swagger UI](http://axeljaeger.github.io/gopro-openapi).
