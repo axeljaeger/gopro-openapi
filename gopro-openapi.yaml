@@ -47,7 +47,7 @@ components:
       description: GoPro uses the integer values of 0 and 1 instead of a boolean.
       type: integer
       enum: [0, 1]
-    Media List:
+    MediaList:
       description: GoPro Media List
       type: object
       properties:
@@ -529,7 +529,7 @@ paths:
           content:
             application/json:
               schema: 
-                $ref: '#/components/schemas/Media List'
+                $ref: '#/components/schemas/MediaList'
             
 ##########################
 # Shutter
