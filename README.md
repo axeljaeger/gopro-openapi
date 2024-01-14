@@ -1,14 +1,5 @@
 # GoPro HTTP API specification in OpenAPI Format
 
+This used to be a community translation of the GoPro HTTP API in OpenAPI format. Since GoPro Inc. now provides the HTTP API as OpenAPI, this effort is no longer needed.
 
-
-[![OpenAPI Validation](https://validator.swagger.io/validator?url=https://raw.githubusercontent.com/axeljaeger/gopro-openapi/master/gopro-openapi.yaml)](https://validator.swagger.io/?url=https://raw.githubusercontent.com/axeljaeger/gopro-openapi/master/gopro-openapi.yaml)
-
-
-This is a community translation of the [official GoPro HTTP API](https://gopro.github.io/OpenGoPro/http_2_0) provided by GoPro Inc.
-
-You can browse this API using the provided [Swagger UI](http://axeljaeger.github.io/gopro-openapi).
-
-You may also use the raw [gopro-openapi.yaml](https://raw.githubusercontent.com/axeljaeger/gopro-openapi/master/gopro-openapi.yaml) file for consumption in [code generators](https://openapi-generator.tech/docs/generators/).
-
-As this is a community effort, expect bugs and missed updates. Please [report any bugs](https://github.com/axeljaeger/gopro-openapi/issues) or even provide fixes already prepared as pull requests.  
+Please use the [official HTTP Spec from GoPro](https://gopro.github.io/OpenGoPro/http) provided by GoPro Inc.
