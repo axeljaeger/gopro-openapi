@@ -3,7 +3,7 @@ window.onload = function() {
 
   // the following lines will be replaced by docker/configurator, when it runs in a docker-container
   window.ui = SwaggerUIBundle({
-    url: "gopro-openapi.yaml",
+    url: "https://raw.githubusercontent.com/gopro/OpenGoPro/main/docs/specs/.openapi.yml",
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
